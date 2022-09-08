@@ -11,7 +11,7 @@ import javax.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-@Data
+@Data	
 @AllArgsConstructor
 @Entity
 @Table(name = "tUser")
