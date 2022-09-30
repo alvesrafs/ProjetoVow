@@ -1,6 +1,5 @@
 package com.example.agendaMecanica.config;
 
-import java.sql.Array;
 import java.util.Arrays;
 
 import org.springframework.beans.factory.annotation.Autowired;
